@@ -1,2 +1,2 @@
 # ScriMesEngine
-Scriptable message executing engine for headless testing message based API e. g. of an backend
+Scriptable message executing engine, e. g. for headless testing message based API of an backend
